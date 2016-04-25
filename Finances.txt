@@ -1,0 +1,15 @@
+Your total income is: 6000.0
+Your total expenditures are: 1440.0
+Your positive cash flow is: 4560.0
+Your simple interest earned on your savings account for the year is: 10.0
+ 
+Your debts are: 36000.0
+The interest paid on the debt is: 3240.0
+Your mortgage is: 250000.0
+The amount paid on your mortgage interest for the year is: 7500.0
+ 
+Your total debt is: 286000.0
+Your total financial liability is: 287440.0
+Your financial leverage ratio is47.9066666667
+
+##EOF##
